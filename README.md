@@ -1,5 +1,7 @@
-# DAUDIO-UBUNTU README
-- Date: 11-4-2021
+<h1 align="center">DAUDIO UBUNTU README</h1>
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/15916367/140458625-cbde3203-11cb-43f8-a614-5a60b35cdcc6.png">
+</p>
 
 ## About:
 - On my Ubuntu install, I had this issue where Ubuntu would always default to an audio source that had no output. So I would always have to go into settings and change the audio source back to my monitor speakers. I had to do this everytime I restarted my PC, everytime I woke up my PC from sleep mode, and everytime I paused audio (like pause a YouTube video). This was really annoying, so I made this daudio.py script.
