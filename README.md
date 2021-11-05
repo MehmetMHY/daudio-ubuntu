@@ -3,6 +3,9 @@
   <img width="300" src="https://user-images.githubusercontent.com/15916367/140458625-cbde3203-11cb-43f8-a614-5a60b35cdcc6.png">
 </p>
 
+## Acknowledge:
+- This entire project/script was made to address a bug I encountered with my Ubuntu 20.04 setup. This bug worked like this, Ubuntu would always default to an audio source that did not output any audio and for some reason, every time I tried to change the audio source to my targeted audio source, Ubuntu would just default back to the bad audio source. 
+
 ## About:
 - On my Ubuntu install, I had this issue where Ubuntu would always default to an audio source that had no output. So I would always have to go into settings and change the audio source back to my monitor speakers. I had to do this everytime I restarted my PC, everytime I woke up my PC from sleep mode, and everytime I paused audio (like pause a YouTube video). This was really annoying, so I made this daudio.py script.
 - Currently, the daudio.py script has only been tested and proven to work on Ubuntu 20.04. So it would be best to run this script in Ubuntu 20.04.
