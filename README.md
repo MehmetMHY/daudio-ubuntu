@@ -18,9 +18,9 @@
 
 ## Requirements:
 - Ubuntu 20.04
-- Pactl
-- Python3
-- 'Startup Applications Preferences' Ubuntu App
+- Pactl (included in Ubuntu)
+- Python3 (included in Ubuntu)
+- 'Startup Applications Preferences' Ubuntu App (included in Ubuntu)
 
 ## How To Run:
 - Daudio Params:
@@ -34,8 +34,3 @@ python3 .daudio.py [float] [str] ["true"_or_"false"]
 ```
 python3 .daudio.py 1 hdmi true
 ```
-
-
-
-
-
