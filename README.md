@@ -1,6 +1,6 @@
 <h1 align="center">DAUDIO UBUNTU README</h1>
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/15916367/140458625-cbde3203-11cb-43f8-a614-5a60b35cdcc6.png">
+  <img width="300" src="./assets/image1.png">
 </p>
 
 ## Acknowledge:
